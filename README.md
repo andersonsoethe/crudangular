@@ -1,2 +1,2 @@
 # crudangular
-Building a CRUDinteface with angular 9
+Building a CRUD inteface with angular 9
