@@ -1,19 +1,29 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "caneta bic",
-            "price": 5.89
-        },
-        {
-            "id": 2,
-            "name": "caneta t02",
-            "price": 5.49
-        },
-        {
-            "id": 3,
-            "name": "caneta V50",
-            "price": 6.57
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "caneta bic",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "caneta t02",
+      "price": 5.49
+    },
+    {
+      "id": 3,
+      "name": "caneta V50",
+      "price": 6.57
+    },
+    {
+      "name": "Veio do Formulário",
+      "price": "9.99",
+      "id": 4
+    },
+    {
+      "name": "Máquina de Lavar",
+      "price": "1500.77",
+      "id": 5
+    }
+  ]
 }
