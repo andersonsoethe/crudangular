@@ -24,6 +24,11 @@
       "name": "Máquina de Lavar",
       "price": "1500.77",
       "id": 5
+    },
+    {
+      "name": "lápis preto",
+      "price": "2,50",
+      "id": 6
     }
   ]
 }
